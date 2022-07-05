@@ -1,4 +1,4 @@
-code arduino en C.
+code arduino en C++.
 Permet de controler les mouvements d'un bras articulé a l'aide de quatre potenciometres.
 
 -------Montage-------
